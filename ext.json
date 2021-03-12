@@ -1,0 +1,9 @@
+{
+    "identifier": "net.segv11.plus-editor-frozen",
+    "name": "Plus Editor - Frozen",
+    "content_type": "SN|Component",
+    "area": "editor-editor",
+    "version": "1.4.7",
+    "description": "Plus Editor -- Before HTML 'sanitization'",
+    "url": "https://jmason888pub.s3-us-west-2.amazonaws.com/editors/Plus/dist/index.html"
+} 
