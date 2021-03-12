@@ -1,6 +1,6 @@
 {
   "name": "sn-plus-editor",
-  "version": "1.4.7",
+  "version": "1.4.7a",
   "description": "Plus Editor -- Before HTML 'sanitization'",
   "main": "dist/dist.js",
   "author": "Standard Notes <hello@standardnotes.org>",

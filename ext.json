@@ -3,7 +3,9 @@
     "name": "Plus Editor - Frozen",
     "content_type": "SN|Component",
     "area": "editor-editor",
-    "version": "1.4.7",
+    "version": "1.4.7a",
     "description": "Plus Editor -- Before HTML 'sanitization'",
-    "url": "https://jmason888pub.s3-us-west-2.amazonaws.com/editors/Plus/dist/index.html"
+    "url": "https://jmason888pub.s3-us-west-2.amazonaws.com/editors/Plus/dist/index.html",
+    "download_url":"https://github.com/segv11/plus-editor/archive/1.4.7a.zip",
+    "latest_url": "https://jmason888pub.s3-us-west-2.amazonaws.com/editors/Plus/ext.json"
 } 
